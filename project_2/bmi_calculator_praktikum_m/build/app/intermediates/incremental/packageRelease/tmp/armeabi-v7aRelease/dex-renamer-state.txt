@@ -1,0 +1,4 @@
+#Mon Nov 22 17:28:49 ICT 2021
+base.0=E\:\\Kuliah\\PRATIKUM\\praktikum_android\\project_aplikasi_1\\project_2\\bmi_calculator_praktikum_m\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
